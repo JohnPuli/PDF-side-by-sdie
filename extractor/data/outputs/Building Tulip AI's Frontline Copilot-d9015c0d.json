@@ -1,0 +1,3476 @@
+[
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p1_c1",
+    "page":1,
+    "bbox_normalized":[
+      0.117647,
+      0.124818,
+      0.844943,
+      0.287758
+    ],
+    "bbox_abs":[
+      72.0,
+      98.8560028076,
+      517.1049194336,
+      227.904006958
+    ],
+    "text":"Architectural Blueprint for Contextual,  Composable Frontline Applications:  Deconstructing the RAG-Powered  PDF-to-App Workflow ",
+    "created_at":"2025-12-16T10:11:00.064948"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p1_c2",
+    "page":1,
+    "bbox_normalized":[
+      0.117647,
+      0.367288,
+      0.871027,
+      0.426992
+    ],
+    "bbox_abs":[
+      72.0,
+      290.891998291,
+      533.0686645508,
+      338.1780090332
+    ],
+    "text":"Part I: The Strategic Role of AI in Frontline Operations  (Tulip Analysis) ",
+    "created_at":"2025-12-16T10:11:00.064963"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p1_c3",
+    "page":1,
+    "bbox_normalized":[
+      0.117647,
+      0.505576,
+      0.838816,
+      0.552328
+    ],
+    "bbox_abs":[
+      72.0,
+      400.416015625,
+      513.3553466797,
+      437.4440002441
+    ],
+    "text":"1.1. Contextualizing Frontline AI: The Shift from Legacy Systems to  Human-Centric Augmentation ",
+    "created_at":"2025-12-16T10:11:00.064967"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p1_c4",
+    "page":1,
+    "bbox_normalized":[
+      0.117647,
+      0.596508,
+      0.884374,
+      0.730639
+    ],
+    "bbox_abs":[
+      72.0,
+      472.4339904785,
+      541.2366943359,
+      578.666015625
+    ],
+    "text":"The implementation of Artificial Intelligence (AI) within the manufacturing sector has  transitioned from a theoretical discussion to a strategic necessity. The primary challenge  facing industrial organizations is no longer whether to adopt AI, but how to scale it effectively  across real-world operational workflows. 1  Traditional industrial systems, such as  Manufacturing Execution Systems (MES) and Enterprise Resource Planning (ERP), often act as  monolithic barriers, requiring specialized developers and extensive time for process  digitization, thereby hindering the deployment of scalable AI solutions. 1 ",
+    "created_at":"2025-12-16T10:11:00.064970"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p1_c5",
+    "page":1,
+    "bbox_normalized":[
+      0.117647,
+      0.748023,
+      0.876686,
+      0.882154
+    ],
+    "bbox_abs":[
+      72.0,
+      592.4340209961,
+      536.5316772461,
+      698.666015625
+    ],
+    "text":"Tulip Interfaces addresses this challenge by championing a philosophy of augmentation  rather than full automation. The core mission of the Frontline Copilot is to assist and enhance  the capabilities of human operators and engineers, empowering them to execute their tasks  faster, smarter, and with greater efficiency. 2  This human-centric approach dictates that the  underlying system architecture must provide instantaneous, context-aware decision support,  thereby eliminating the need for repetitive searches and guesswork that traditionally plague  manual work instructions. 1 ",
+    "created_at":"2025-12-16T10:11:00.064978"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c1",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.090826,
+      0.885954,
+      0.226851
+    ],
+    "bbox_abs":[
+      72.0,
+      71.9339981079,
+      542.2041015625,
+      179.6660003662
+    ],
+    "text":"This augmentation strategy is built upon a foundation of composability. The Tulip platform  utilizes a cloud-based editor that enables non-developers\u2014those closest to the operation\u2014to  create user-friendly, digital applications through an intuitive drag-and-drop interface. 4  This  architectural feature is vital, as it allows for the rapid digital transformation of processes and  enables high standardization without reliance on dedicated data scientists or external  developers. 1  The platform supports inherent modularity, edge connectivity, and integration  with third-party systems, establishing the framework for highly flexible, non-linear workflows. 4 ",
+    "created_at":"2025-12-16T10:11:00.074794"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c2",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.280197,
+      0.788723,
+      0.326949
+    ],
+    "bbox_abs":[
+      72.0,
+      221.9160003662,
+      482.6987609863,
+      258.9440002441
+    ],
+    "text":"1.2. The Tulip AI Frontline Copilot Ecosystem: Capabilities and  Grounding ",
+    "created_at":"2025-12-16T10:11:00.074801"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c3",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.371129,
+      0.886868,
+      0.467381
+    ],
+    "bbox_abs":[
+      72.0,
+      293.9339904785,
+      542.7634277344,
+      370.1659851074
+    ],
+    "text":"The Frontline Copilot is a set of Generative AI tools engineered to integrate seamlessly into the  operator's interface, providing direct support where and when it is needed most. 2  The system  offers real-time contextual decision support by leveraging various data sources, including  production data and historical issue reports, to recommend troubleshooting steps, identify  similar defects, and highlight where previous problems occurred. 1 ",
+    "created_at":"2025-12-16T10:11:00.074805"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c4",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.484765,
+      0.882989,
+      0.599957
+    ],
+    "bbox_abs":[
+      72.0,
+      383.9339904785,
+      540.3893432617,
+      475.1659851074
+    ],
+    "text":"A critical functionality of the Copilot is its capability for Document Question-and-Answer  (Q&A), which allows operators to ask freeform questions about internal policy, procedure, and  process documentation (typically stored as PDFs). 6  This confirms the system\u2019s reliance on a  Retrieval-Augmented Generation (RAG) architecture , which strengthens the Large  Language Model (LLM) by injecting retrieved, trusted data from authoritative knowledge  bases into the prompt, ensuring responses are relevant and grounded. 7 ",
+    "created_at":"2025-12-16T10:11:00.074809"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c5",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.617341,
+      0.885971,
+      0.791927
+    ],
+    "bbox_abs":[
+      72.0,
+      488.9339904785,
+      542.2145385742,
+      627.2059936523
+    ],
+    "text":"The essential difference between this enterprise RAG implementation and consumer models is  the requirement for  trust and visual verification . To enhance reliability and meet compliance  standards prevalent in complex manufacturing and regulated industries  4 , the RAG system  must be sophisticated enough to not only return a text-based answer but also to  highlight  specific pages or sections on the source document that pertain to the answer . 6  This  visual grounding capability reduces LLM hallucinations and allows the operator to instantly  verify the source of the information. 3  This requirement\u2014linking an AI-generated text response  back to a precise location within a source PDF\u2014is the primary driver for the highly complex  PDF parsing and coordinate extraction architecture necessary for the system\u2019s operation. ",
+    "created_at":"2025-12-16T10:11:00.074812"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p2_c6",
+    "page":2,
+    "bbox_normalized":[
+      0.117647,
+      0.842697,
+      0.799356,
+      0.864828
+    ],
+    "bbox_abs":[
+      72.0,
+      667.416015625,
+      489.2057800293,
+      684.9440307617
+    ],
+    "text":"1.3. Feature Deep Dive: AI Composer and the Synchronized UX ",
+    "created_at":"2025-12-16T10:11:00.074819"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c1",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.090826,
+      0.87999,
+      0.207912
+    ],
+    "bbox_abs":[
+      72.0,
+      71.9339981079,
+      538.5541381836,
+      164.6660003662
+    ],
+    "text":"The AI Composer is a specialized tool within the Tulip ecosystem designed to dramatically  accelerate the digitization of standard operating procedures (SOPs) and work instructions. 9   The workflow involves uploading a PDF, which the Composer then processes by automatically  extracting all relevant text, images, steps, checklists, and variable mappings. 1  The result is a  fully functional, near-production-ready digital workflow or app, ready for rapid deployment  and customization. 10 ",
+    "created_at":"2025-12-16T10:11:00.081442"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c2",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.261273,
+      0.583021,
+      0.280242
+    ],
+    "bbox_abs":[
+      72.0,
+      206.9280090332,
+      356.80859375,
+      221.9520111084
+    ],
+    "text":"The Role of Composable, Editable Questionnaires ",
+    "created_at":"2025-12-16T10:11:00.081447"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c3",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.32378,
+      0.882758,
+      0.43776
+    ],
+    "bbox_abs":[
+      72.0,
+      256.4339904785,
+      540.248046875,
+      346.7059936523
+    ],
+    "text":"The output of the Composer is a  composable, editable questionnaire or app  structure. The  system transforms the static instructions within the PDF into dynamic inputs and workflow  steps\u2014such as checklists, required inputs, and media prompts\u2014which can be quickly  customized and integrated with connected devices or third-party systems. 1  The inherent  flexibility of the platform's composable foundation allows the AI to generate a highly adaptive  digital workflow, satisfying the user\u2019s need for functional, editable forms. ",
+    "created_at":"2025-12-16T10:11:00.081450"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c4",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.488545,
+      0.65606,
+      0.507515
+    ],
+    "bbox_abs":[
+      72.0,
+      386.9279785156,
+      401.5086975098,
+      401.9519958496
+    ],
+    "text":"The Synchronization Mechanism: Side-by-Side Reference ",
+    "created_at":"2025-12-16T10:11:00.081453"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c5",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.551053,
+      0.853446,
+      0.665033
+    ],
+    "bbox_abs":[
+      72.0,
+      436.4339904785,
+      522.3086547852,
+      526.7059936523
+    ],
+    "text":"The digitization process includes a review and editing phase where the user can refine the  extracted content in an \"intuitive side-by-side view with the source\" document. 12  This  interface is the foundation of the synchronous user experience. The most advanced  implementation of this feature is the ability to link dynamic form fields in the digitized  workflow to the specific, corresponding steps in the PDF reference panel, often achieved  through synchronized scrolling and context highlighting. ",
+    "created_at":"2025-12-16T10:11:00.081456"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c6",
+    "page":3,
+    "bbox_normalized":[
+      0.117647,
+      0.681735,
+      0.877333,
+      0.718063
+    ],
+    "bbox_abs":[
+      72.0,
+      539.9340209961,
+      536.9275512695,
+      568.7059936523
+    ],
+    "text":"The seamless conversion of a static PDF document into an editable application requires deep  technical integration between three major architectural components: ",
+    "created_at":"2025-12-16T10:11:00.081458"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c7",
+    "page":3,
+    "bbox_normalized":[
+      0.127451,
+      0.727189,
+      0.842818,
+      0.744578
+    ],
+    "bbox_abs":[
+      78.0,
+      575.9340209961,
+      515.8045654297,
+      589.7059936523
+    ],
+    "text":"1.\u200b  A sophisticated document parser:  This component must interpret the document's ",
+    "created_at":"2025-12-16T10:11:00.081461"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c8",
+    "page":3,
+    "bbox_normalized":[
+      0.127451,
+      0.746129,
+      0.883966,
+      0.801396
+    ],
+    "bbox_abs":[
+      78.0,
+      590.9340209961,
+      540.9869384766,
+      634.7059936523
+    ],
+    "text":"structure, not just its text, and extract geometric metadata like bounding box coordinates  for all relevant elements.  2.\u200b  A Generative LLM and Inference Engine:  This layer infers the functional schema (what ",
+    "created_at":"2025-12-16T10:11:00.081464"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c9",
+    "page":3,
+    "bbox_normalized":[
+      0.127451,
+      0.802947,
+      0.821283,
+      0.858215
+    ],
+    "bbox_abs":[
+      78.0,
+      635.9340209961,
+      502.6254577637,
+      679.7059936523
+    ],
+    "text":"kind of data field is needed) from the extracted text structure (e.g., an instruction  followed by a blank space should become a text input field).  3.\u200b  A Dynamic Form Builder and Renderer:  This component consumes the inferred ",
+    "created_at":"2025-12-16T10:11:00.081466"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p3_c10",
+    "page":3,
+    "bbox_normalized":[
+      0.156863,
+      0.859765,
+      0.820384,
+      0.877154
+    ],
+    "bbox_abs":[
+      96.0,
+      680.9340209961,
+      502.0749816895,
+      694.7059936523
+    ],
+    "text":"schema (often in JSON format) and renders the interactive form on the front end. ",
+    "created_at":"2025-12-16T10:11:00.081469"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c1",
+    "page":4,
+    "bbox_normalized":[
+      0.117647,
+      0.098402,
+      0.875104,
+      0.191548
+    ],
+    "bbox_abs":[
+      72.0,
+      77.9339981079,
+      535.5637817383,
+      151.7059936523
+    ],
+    "text":"The interoperability between these layers mandates the use of a  Unified Metadata Model .  This model must ensure that the geometric bounding box coordinates, extracted during the  initial ingestion stage, are consistently associated with the derived text, carried through the  RAG retrieval process, and accurately used by the front-end PDF viewer to synchronize scroll  positions and render the required visual highlight. ",
+    "created_at":"2025-12-16T10:11:00.086526"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c2",
+    "page":4,
+    "bbox_normalized":[
+      0.117647,
+      0.20825,
+      0.839773,
+      0.244578
+    ],
+    "bbox_abs":[
+      72.0,
+      164.9339904785,
+      513.9411621094,
+      193.7059936523
+    ],
+    "text":"Table 1 provides a technical breakdown of how the platform\u2019s advertised features map to  necessary architectural elements. ",
+    "created_at":"2025-12-16T10:11:00.086533"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c3",
+    "page":4,
+    "bbox_normalized":[
+      0.117647,
+      0.26128,
+      0.772348,
+      0.278669
+    ],
+    "bbox_abs":[
+      72.0,
+      206.9339904785,
+      472.6768188477,
+      220.7059936523
+    ],
+    "text":"Table 1: Frontline AI Composer Feature Decomposition and Technical Translation ",
+    "created_at":"2025-12-16T10:11:00.086536"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c4",
+    "page":4,
+    "bbox_normalized":[
+      0.132353,
+      0.303894,
+      0.832744,
+      0.321283
+    ],
+    "bbox_abs":[
+      81.0,
+      240.6839904785,
+      509.6391906738,
+      254.4559936523
+    ],
+    "text":"Tulip AI Feature  User Benefit  Technical Translation ",
+    "created_at":"2025-12-16T10:11:00.086538"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c5",
+    "page":4,
+    "bbox_normalized":[
+      0.132353,
+      0.346508,
+      0.587542,
+      0.382836
+    ],
+    "bbox_abs":[
+      81.0,
+      274.4339904785,
+      359.5758361816,
+      303.2059936523
+    ],
+    "text":"AI Composer (PDF-to-App)  Instantly digitize SOPs;  rapid workflow creation. ",
+    "created_at":"2025-12-16T10:11:00.086541"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c6",
+    "page":4,
+    "bbox_normalized":[
+      0.642157,
+      0.346508,
+      0.849,
+      0.420715
+    ],
+    "bbox_abs":[
+      393.0,
+      274.4339904785,
+      519.5879516602,
+      333.2059936523
+    ],
+    "text":"Layout-aware document  parsing; LLM structural  inference; JSON Schema  generation. ",
+    "created_at":"2025-12-16T10:11:00.086544"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c7",
+    "page":4,
+    "bbox_normalized":[
+      0.132353,
+      0.445939,
+      0.314643,
+      0.482268
+    ],
+    "bbox_abs":[
+      81.0,
+      353.1839904785,
+      192.5617980957,
+      381.9559936523
+    ],
+    "text":"Composable, Editable  Forms ",
+    "created_at":"2025-12-16T10:11:00.086546"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c8",
+    "page":4,
+    "bbox_normalized":[
+      0.387255,
+      0.445939,
+      0.600168,
+      0.501207
+    ],
+    "bbox_abs":[
+      237.0,
+      353.1839904785,
+      367.3030090332,
+      396.9559936523
+    ],
+    "text":"Flexibility for custom data  capture; no-code  development. ",
+    "created_at":"2025-12-16T10:11:00.086549"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c9",
+    "page":4,
+    "bbox_normalized":[
+      0.642157,
+      0.445939,
+      0.857334,
+      0.501207
+    ],
+    "bbox_abs":[
+      393.0,
+      353.1839904785,
+      524.6883544922,
+      396.9559936523
+    ],
+    "text":"Dynamic Frontend  Renderer (e.g., SurveyJS);  JSONB data persistence. ",
+    "created_at":"2025-12-16T10:11:00.086551"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c10",
+    "page":4,
+    "bbox_normalized":[
+      0.132353,
+      0.526432,
+      0.594799,
+      0.581699
+    ],
+    "bbox_abs":[
+      81.0,
+      416.9339904785,
+      364.0168762207,
+      460.7059936523
+    ],
+    "text":"Document Grounding  Trust, accuracy, and  reduced hallucinations in  responses. ",
+    "created_at":"2025-12-16T10:11:00.086553"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c11",
+    "page":4,
+    "bbox_normalized":[
+      0.642157,
+      0.526432,
+      0.846737,
+      0.581699
+    ],
+    "bbox_abs":[
+      393.0,
+      416.9339904785,
+      518.2030639648,
+      460.7059936523
+    ],
+    "text":"RAG pipeline (Retrieval +  Augmentation); context  injection. ",
+    "created_at":"2025-12-16T10:11:00.086556"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c12",
+    "page":4,
+    "bbox_normalized":[
+      0.132353,
+      0.606924,
+      0.597349,
+      0.662192
+    ],
+    "bbox_abs":[
+      81.0,
+      480.6839904785,
+      365.5776062012,
+      524.4559936523
+    ],
+    "text":"Synchronized Reference UX  Instant visual verification;  eliminates searching and  guesswork. ",
+    "created_at":"2025-12-16T10:11:00.086558"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c13",
+    "page":4,
+    "bbox_normalized":[
+      0.642157,
+      0.606924,
+      0.849844,
+      0.681131
+    ],
+    "bbox_abs":[
+      393.0,
+      480.6839904785,
+      520.1046142578,
+      539.4559936523
+    ],
+    "text":"Coordinate extraction  (bounding boxes);  front-end scroll\/highlight  synchronization logic. ",
+    "created_at":"2025-12-16T10:11:00.086561"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c14",
+    "page":4,
+    "bbox_normalized":[
+      0.117647,
+      0.74797,
+      0.866704,
+      0.807674
+    ],
+    "bbox_abs":[
+      72.0,
+      592.3920288086,
+      530.422668457,
+      639.6780395508
+    ],
+    "text":"Part II: Comprehensive RAG Pipeline Architecture for  Document-Grounded Generation ",
+    "created_at":"2025-12-16T10:11:00.086563"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p4_c15",
+    "page":4,
+    "bbox_normalized":[
+      0.117647,
+      0.852189,
+      0.878249,
+      0.888518
+    ],
+    "bbox_abs":[
+      72.0,
+      674.9340209961,
+      537.4881591797,
+      703.7059936523
+    ],
+    "text":"Achieving the high-fidelity synchronization and grounding demonstrated by the Frontline  Copilot requires a specialized, production-grade RAG pipeline that is optimized for geometric ",
+    "created_at":"2025-12-16T10:11:00.086566"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c1",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.090826,
+      0.51222,
+      0.108215
+    ],
+    "bbox_abs":[
+      72.0,
+      71.9339981079,
+      313.478515625,
+      85.7060012817
+    ],
+    "text":"data transfer and structural document handling. ",
+    "created_at":"2025-12-16T10:11:00.091872"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c2",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.158985,
+      0.80546,
+      0.205737
+    ],
+    "bbox_abs":[
+      72.0,
+      125.9160003662,
+      492.94140625,
+      162.9440002441
+    ],
+    "text":"2.1. The Ingestion and Pre-processing Layer: The Foundation of  Geometric Metadata ",
+    "created_at":"2025-12-16T10:11:00.091876"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c3",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.249917,
+      0.87753,
+      0.32723
+    ],
+    "bbox_abs":[
+      72.0,
+      197.9339904785,
+      537.0486450195,
+      259.1659851074
+    ],
+    "text":"The primary differentiator of this specialized RAG system is the depth of document  understanding in the ingestion stage. Simple PDF text extraction or fixed-size token chunking  is wholly inadequate. 13  To support highlighting specific content and synchronize scrolling to  the source text, the parser must perform  Layout-Aware Parsing . 14 ",
+    "created_at":"2025-12-16T10:11:00.091878"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c4",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.344614,
+      0.852742,
+      0.499578
+    ],
+    "bbox_abs":[
+      72.0,
+      272.9339904785,
+      521.8779907227,
+      395.6659851074
+    ],
+    "text":"This process involves using advanced tools to interpret the structural elements of the  PDF\u2014identifying headings, tables, lists, and paragraphs\u2014and extracting the  geometric  coordinates  (bounding boxes) for every significant text block relative to the document  page. 15  Specialized libraries like PyMuPDF (fitz) offer strong low-level capabilities for  extracting text positions and metadata  15 , while enterprise solutions like Unstructured.io or  cloud-native layout parsers (such as Google\u2019s Vertex AI Search layout parser) are  recommended for complex, mixed-content technical documentation, as they can reliably  output structured JSON containing both the content hierarchy and location. 14 ",
+    "created_at":"2025-12-16T10:11:00.091880"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c5",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.552939,
+      0.447452,
+      0.571909
+    ],
+    "bbox_abs":[
+      72.0,
+      437.9279785156,
+      273.8404541016,
+      452.9519958496
+    ],
+    "text":"Chunking Strategy and Embedding ",
+    "created_at":"2025-12-16T10:11:00.091883"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c6",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.615447,
+      0.87701,
+      0.709806
+    ],
+    "bbox_abs":[
+      72.0,
+      487.4339904785,
+      536.7302246094,
+      562.166015625
+    ],
+    "text":"The chunking strategy must align with the document's semantic flow, which is crucial for  technical manuals and SOPs.  Recursive Chunking  is recommended, as it applies a hierarchy  of separators (e.g., section, then paragraph, then sentence) until the content fits within a  target size, ensuring that chunks remain semantically complete and relevant to a specific  instruction or step. 13 ",
+    "created_at":"2025-12-16T10:11:00.091885"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p5_c7",
+    "page":5,
+    "bbox_normalized":[
+      0.117647,
+      0.727189,
+      0.882002,
+      0.88026
+    ],
+    "bbox_abs":[
+      72.0,
+      575.9340209961,
+      539.7854003906,
+      697.166015625
+    ],
+    "text":"Once the semantically rich chunks are created, they are converted into dense numerical  arrays (embeddings) using a suitable model. The quality of the embedding model directly  correlates with the accuracy of retrieval. 19  For high-stakes industrial applications,  high-performance models like the E5 Family, BGE, or the OpenAI Text-Embedding 3 series are  generally preferred, though system architects must balance the trade-off between  higher-dimensional vectors (often yielding better accuracy) and the resulting higher  computational resources, storage costs, and latency incurred during comparison and  retrieval. 19 ",
+    "created_at":"2025-12-16T10:11:00.091888"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c1",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.126803,
+      0.441648,
+      0.145773
+    ],
+    "bbox_abs":[
+      72.0,
+      100.4279937744,
+      270.2884216309,
+      115.4519958496
+    ],
+    "text":"Coordinate Normalization Pipeline ",
+    "created_at":"2025-12-16T10:11:00.096838"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c2",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.189311,
+      0.870023,
+      0.26473
+    ],
+    "bbox_abs":[
+      72.0,
+      149.9339904785,
+      532.4539794922,
+      209.6660003662
+    ],
+    "text":"A fundamental technical challenge inherent in this architecture is the mismatch between the  coordinate systems. The parser extracts coordinates in the PDF's native units (typically  PostScript points relative to the page origin), while the front-end PDF viewer renders the  document using pixels (relative to the browser viewport, modified by zoom and scale). 21 ",
+    "created_at":"2025-12-16T10:11:00.096843"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c3",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.282114,
+      0.879505,
+      0.413139
+    ],
+    "bbox_abs":[
+      72.0,
+      223.4339904785,
+      538.2567749023,
+      327.2059936523
+    ],
+    "text":"To solve this, the stored coordinates must be normalized at the time of ingestion to a  standardized format and carried as metadata. The system must then incorporate a robust,  client-side  Coordinate Transformation Service . This service dynamically translates the  stored PDF points into the current screen pixel geometry when the document is rendered,  accounting precisely for the PDF viewer\u2019s current scroll offset and zoom level. This translation  service is a central point of engineering complexity and requires rigorous validation to ensure  accurate highlight placement across various devices and scaling factors. ",
+    "created_at":"2025-12-16T10:11:00.096846"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c4",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.463909,
+      0.813532,
+      0.510662
+    ],
+    "bbox_abs":[
+      72.0,
+      367.416015625,
+      497.8813171387,
+      404.4440002441
+    ],
+    "text":"2.2. The Retrieval Service Design: Hybrid Search and Structured  Payload ",
+    "created_at":"2025-12-16T10:11:00.096848"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c5",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.554841,
+      0.701565,
+      0.57223
+    ],
+    "bbox_abs":[
+      72.0,
+      439.4339904785,
+      429.3575134277,
+      453.2059936523
+    ],
+    "text":"The Retrieval Service must be optimized for speed and context delivery. ",
+    "created_at":"2025-12-16T10:11:00.096851"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c6",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.623015,
+      0.397863,
+      0.641985
+    ],
+    "bbox_abs":[
+      72.0,
+      493.4279785156,
+      243.4923553467,
+      508.4519958496
+    ],
+    "text":"Hybrid Retrieval and Indexing ",
+    "created_at":"2025-12-16T10:11:00.096853"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c7",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.685523,
+      0.882056,
+      0.780563
+    ],
+    "bbox_abs":[
+      72.0,
+      542.9340209961,
+      539.8180541992,
+      618.2059936523
+    ],
+    "text":"Effective retrieval requires a system capable of combining multiple search techniques.  Hybrid  Retrieval  marries semantic search (using the vector index to find conceptually similar  content) with traditional keyword search (using sparse indices to find exact matches for  technical specifications or part numbers). 23  This dual approach maximizes retrieval  effectiveness for diverse industrial queries. ",
+    "created_at":"2025-12-16T10:11:00.096855"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c8",
+    "page":6,
+    "bbox_normalized":[
+      0.117647,
+      0.797265,
+      0.881175,
+      0.833593
+    ],
+    "bbox_abs":[
+      72.0,
+      631.4340209961,
+      539.2789306641,
+      660.2059936523
+    ],
+    "text":"The Vector Database (e.g., Qdrant, Weaviate) is where the indexed documents reside. For this  architecture, each indexed entry must store four critical components: ",
+    "created_at":"2025-12-16T10:11:00.096858"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p6_c9",
+    "page":6,
+    "bbox_normalized":[
+      0.127451,
+      0.84272,
+      0.649575,
+      0.897987
+    ],
+    "bbox_abs":[
+      78.0,
+      667.4340209961,
+      397.5399475098,
+      711.2059936523
+    ],
+    "text":"1.\u200b  The vector embedding of the text chunk.  2.\u200b  The raw text chunk content.  3.\u200b  Essential RAG metadata (e.g., document_id, document title). ",
+    "created_at":"2025-12-16T10:11:00.096860"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c1",
+    "page":7,
+    "bbox_normalized":[
+      0.127451,
+      0.090826,
+      0.877805,
+      0.108215
+    ],
+    "bbox_abs":[
+      78.0,
+      71.9339981079,
+      537.2164916992,
+      85.7060012817
+    ],
+    "text":"4.\u200b  The precise  geometric metadata  (page_number, bounding_box_coordinates) extracted ",
+    "created_at":"2025-12-16T10:11:00.101579"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c2",
+    "page":7,
+    "bbox_normalized":[
+      0.156863,
+      0.109612,
+      0.307553,
+      0.128366
+    ],
+    "bbox_abs":[
+      96.0,
+      86.8127975464,
+      188.2224273682,
+      101.6660079956
+    ],
+    "text":"during ingestion. 16 ",
+    "created_at":"2025-12-16T10:11:00.101583"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c3",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.181727,
+      0.40304,
+      0.200697
+    ],
+    "bbox_abs":[
+      72.0,
+      143.9280090332,
+      246.6603240967,
+      158.9520111084
+    ],
+    "text":"RAG API Structured Response ",
+    "created_at":"2025-12-16T10:11:00.101586"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c4",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.244235,
+      0.87207,
+      0.339275
+    ],
+    "bbox_abs":[
+      72.0,
+      193.4339904785,
+      533.7069702148,
+      268.7059936523
+    ],
+    "text":"The API endpoint that serves the RAG results must deliver more than just a text answer; it  must return a fully structured JSON payload to the front-end application. 24  This structured  response must include the LLM-generated answer  and  the precise geometric coordinates of  the grounding context. This structure allows the front end to simultaneously display the  answer and trigger the required visual actions (highlighting and scrolling). ",
+    "created_at":"2025-12-16T10:11:00.101589"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c5",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.390045,
+      0.864744,
+      0.436798
+    ],
+    "bbox_abs":[
+      72.0,
+      308.916015625,
+      529.2232666016,
+      345.9440002441
+    ],
+    "text":"2.3. The Generation and Augmentation Layer: Schema Inference and  Context Injection ",
+    "created_at":"2025-12-16T10:11:00.101591"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c6",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.480977,
+      0.822857,
+      0.517306
+    ],
+    "bbox_abs":[
+      72.0,
+      380.9339904785,
+      503.588684082,
+      409.7059936523
+    ],
+    "text":"The generative component of the system serves two distinct functions: initial workflow  creation and real-time operator assistance. ",
+    "created_at":"2025-12-16T10:11:00.101594"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c7",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.568091,
+      0.418373,
+      0.587061
+    ],
+    "bbox_abs":[
+      72.0,
+      449.9279785156,
+      256.0443725586,
+      464.9519958496
+    ],
+    "text":"LLM Role in Schema Generation ",
+    "created_at":"2025-12-16T10:11:00.101596"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c8",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.630598,
+      0.877657,
+      0.725639
+    ],
+    "bbox_abs":[
+      72.0,
+      499.4339904785,
+      537.1258544922,
+      574.7059936523
+    ],
+    "text":"During the AI Composer\u2019s PDF-to-app conversion, the LLM utilizes the structured text and  layout data retrieved from the document store to perform  Schema Inference . 10  The LLM  analyzes the semantic content (e.g., a \"Warning\" section should become an alert component,  a \"Required measurement\" should become a numeric input field) and generates a structured  JSON schema that defines the inputs, logic, and flow of the new digital application. ",
+    "created_at":"2025-12-16T10:11:00.101599"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c9",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.776424,
+      0.514824,
+      0.795394
+    ],
+    "bbox_abs":[
+      72.0,
+      614.9280395508,
+      315.072479248,
+      629.9520263672
+    ],
+    "text":"Runtime Augmentation and Orchestration ",
+    "created_at":"2025-12-16T10:11:00.101602"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p7_c10",
+    "page":7,
+    "bbox_normalized":[
+      0.117647,
+      0.838932,
+      0.881299,
+      0.895412
+    ],
+    "bbox_abs":[
+      72.0,
+      664.4340209961,
+      539.3549194336,
+      709.166015625
+    ],
+    "text":"For real-time Copilot assistance, the LLM receives an augmented prompt containing the user  query, any relevant chat history, and the contextual data\u2014including coordinates\u2014retrieved by  the RAG service. 7  This enhanced context allows the LLM to generate responses that are ",
+    "created_at":"2025-12-16T10:11:00.101604"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c1",
+    "page":8,
+    "bbox_normalized":[
+      0.117647,
+      0.090673,
+      0.696984,
+      0.109427
+    ],
+    "bbox_abs":[
+      72.0,
+      71.8127975464,
+      426.5540466309,
+      86.6660003662
+    ],
+    "text":"accurate and specifically grounded in the company\u2019s knowledge base. 8 ",
+    "created_at":"2025-12-16T10:11:00.106227"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c2",
+    "page":8,
+    "bbox_normalized":[
+      0.117647,
+      0.126811,
+      0.879829,
+      0.25973
+    ],
+    "bbox_abs":[
+      72.0,
+      100.4339981079,
+      538.4552001953,
+      205.7059936523
+    ],
+    "text":"Furthermore, a true enterprise Copilot often requires the capability to handle requests that  involve both knowledge retrieval (RAG) and specific transactional actions (e.g., querying  real-time inventory or processing an order). This demands a sophisticated orchestration layer  that integrates RAG with  Function Calling  capabilities. 23  The orchestration layer must  manage complex, multi-step user requests by intelligently determining when to fetch  contextual data (RAG) and when to execute a defined external function, ensuring seamless  navigation between knowledge-based responses and operational transactions. ",
+    "created_at":"2025-12-16T10:11:00.106231"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c3",
+    "page":8,
+    "bbox_normalized":[
+      0.117647,
+      0.276432,
+      0.690122,
+      0.293821
+    ],
+    "bbox_abs":[
+      72.0,
+      218.9339904785,
+      422.354675293,
+      232.7059936523
+    ],
+    "text":"Table 2: Retrieval-Augmented Generation (RAG) Pipeline Tooling Stack ",
+    "created_at":"2025-12-16T10:11:00.106233"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c4",
+    "page":8,
+    "bbox_normalized":[
+      0.132353,
+      0.319045,
+      0.443369,
+      0.355374
+    ],
+    "bbox_abs":[
+      81.0,
+      252.6839904785,
+      271.3421325684,
+      281.4559936523
+    ],
+    "text":"RAG Stage  Functionality  Requirement ",
+    "created_at":"2025-12-16T10:11:00.106236"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c5",
+    "page":8,
+    "bbox_normalized":[
+      0.514706,
+      0.319045,
+      0.671799,
+      0.374313
+    ],
+    "bbox_abs":[
+      315.0,
+      252.6839904785,
+      411.1408691406,
+      296.4559936523
+    ],
+    "text":"Recommended  Technologies\/Libr aries ",
+    "created_at":"2025-12-16T10:11:00.106238"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c6",
+    "page":8,
+    "bbox_normalized":[
+      0.705882,
+      0.319045,
+      0.852107,
+      0.355374
+    ],
+    "bbox_abs":[
+      432.0,
+      252.6839904785,
+      521.4893188477,
+      281.4559936523
+    ],
+    "text":"Relevance to  Synchronization ",
+    "created_at":"2025-12-16T10:11:00.106241"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c7",
+    "page":8,
+    "bbox_normalized":[
+      0.132353,
+      0.399538,
+      0.22024,
+      0.435866
+    ],
+    "bbox_abs":[
+      81.0,
+      316.4339904785,
+      134.7866363525,
+      345.2059936523
+    ],
+    "text":"Parsing &  Ingestion ",
+    "created_at":"2025-12-16T10:11:00.106243"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c8",
+    "page":8,
+    "bbox_normalized":[
+      0.323529,
+      0.399538,
+      0.478465,
+      0.473745
+    ],
+    "bbox_abs":[
+      198.0,
+      316.4339904785,
+      292.8203430176,
+      375.2059936523
+    ],
+    "text":"Layout-aware PDF  extraction  (coordinates,  tables, hierarchy). ",
+    "created_at":"2025-12-16T10:11:00.106246"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c9",
+    "page":8,
+    "bbox_normalized":[
+      0.514706,
+      0.399538,
+      0.660928,
+      0.454806
+    ],
+    "bbox_abs":[
+      315.0,
+      316.4339904785,
+      404.4881591797,
+      360.2059936523
+    ],
+    "text":"Unstructured.io,  Google Layout  Parser, PyMuPDF. ",
+    "created_at":"2025-12-16T10:11:00.106248"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c10",
+    "page":8,
+    "bbox_normalized":[
+      0.705882,
+      0.399538,
+      0.837126,
+      0.473745
+    ],
+    "bbox_abs":[
+      432.0,
+      316.4339904785,
+      512.3214111328,
+      375.2059936523
+    ],
+    "text":"Must extract  Bounding Box  Coordinates for  visual linking. ",
+    "created_at":"2025-12-16T10:11:00.106251"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c11",
+    "page":8,
+    "bbox_normalized":[
+      0.132353,
+      0.49897,
+      0.475717,
+      0.573177
+    ],
+    "bbox_abs":[
+      81.0,
+      395.1839904785,
+      291.138885498,
+      453.9559936523
+    ],
+    "text":"Chunking  Semantic and  Recursive splitting  optimized for  complex manuals. ",
+    "created_at":"2025-12-16T10:11:00.106253"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c12",
+    "page":8,
+    "bbox_normalized":[
+      0.514706,
+      0.49897,
+      0.671298,
+      0.573177
+    ],
+    "bbox_abs":[
+      315.0,
+      395.1839904785,
+      410.8346557617,
+      453.9559936523
+    ],
+    "text":"LangChain\/LlamaIn dex, utilizing  structural  separators. ",
+    "created_at":"2025-12-16T10:11:00.106256"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c13",
+    "page":8,
+    "bbox_normalized":[
+      0.705882,
+      0.49897,
+      0.868182,
+      0.573177
+    ],
+    "bbox_abs":[
+      432.0,
+      395.1839904785,
+      531.3274536133,
+      453.9559936523
+    ],
+    "text":"Ensures chunks are  semantically whole  and linkable to  distinct form steps. ",
+    "created_at":"2025-12-16T10:11:00.106258"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c14",
+    "page":8,
+    "bbox_normalized":[
+      0.132353,
+      0.598402,
+      0.489546,
+      0.672609
+    ],
+    "bbox_abs":[
+      81.0,
+      473.9339904785,
+      299.6022033691,
+      532.7059936523
+    ],
+    "text":"Embedding  Semantic  vectorization of text  for high-fidelity  retrieval. ",
+    "created_at":"2025-12-16T10:11:00.106261"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c15",
+    "page":8,
+    "bbox_normalized":[
+      0.514706,
+      0.598402,
+      0.672676,
+      0.653669
+    ],
+    "bbox_abs":[
+      315.0,
+      473.9339904785,
+      411.677947998,
+      517.7059936523
+    ],
+    "text":"BGE, Cohere  Embed v3, OpenAI  Text-Embedding 3. ",
+    "created_at":"2025-12-16T10:11:00.106263"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c16",
+    "page":8,
+    "bbox_normalized":[
+      0.705882,
+      0.598402,
+      0.834936,
+      0.748366
+    ],
+    "bbox_abs":[
+      432.0,
+      473.9339904785,
+      510.9808959961,
+      592.7059936523
+    ],
+    "text":"Determines the  accuracy of  retrieving the *  correct* text  snippet and its  associated  coordinate  metadata. ",
+    "created_at":"2025-12-16T10:11:00.106266"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c17",
+    "page":8,
+    "bbox_normalized":[
+      0.132353,
+      0.773591,
+      0.459965,
+      0.847798
+    ],
+    "bbox_abs":[
+      81.0,
+      612.6840209961,
+      281.498840332,
+      671.4559936523
+    ],
+    "text":"Vector Database  High-speed  similarity search  and metadata  storage. ",
+    "created_at":"2025-12-16T10:11:00.106269"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c18",
+    "page":8,
+    "bbox_normalized":[
+      0.514706,
+      0.773591,
+      0.670594,
+      0.847798
+    ],
+    "bbox_abs":[
+      315.0,
+      612.6840209961,
+      410.4035339355,
+      671.4559936523
+    ],
+    "text":"Qdrant, Weaviate,  Pinecone  (supporting hybrid  search). ",
+    "created_at":"2025-12-16T10:11:00.106271"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p8_c19",
+    "page":8,
+    "bbox_normalized":[
+      0.705882,
+      0.773591,
+      0.85895,
+      0.866737
+    ],
+    "bbox_abs":[
+      432.0,
+      612.6840209961,
+      525.6773071289,
+      686.4559936523
+    ],
+    "text":"Must efficiently  index and return  coordinate  metadata with low  latency. ",
+    "created_at":"2025-12-16T10:11:00.106273"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c1",
+    "page":9,
+    "bbox_normalized":[
+      0.132353,
+      0.099348,
+      0.475339,
+      0.173556
+    ],
+    "bbox_abs":[
+      81.0,
+      78.6839981079,
+      290.9071960449,
+      137.4559936523
+    ],
+    "text":"Generation  LLM to interpret  query\/context and  format structured  output. ",
+    "created_at":"2025-12-16T10:11:00.110431"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c2",
+    "page":9,
+    "bbox_normalized":[
+      0.514706,
+      0.099348,
+      0.669426,
+      0.154616
+    ],
+    "bbox_abs":[
+      315.0,
+      78.6839981079,
+      409.6886901855,
+      122.4560012817
+    ],
+    "text":"GPT-4\/5, LLama 3,  Mixtral (API  access). ",
+    "created_at":"2025-12-16T10:11:00.110434"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c3",
+    "page":9,
+    "bbox_normalized":[
+      0.705882,
+      0.099348,
+      0.87206,
+      0.192495
+    ],
+    "bbox_abs":[
+      432.0,
+      78.6839981079,
+      533.7005004883,
+      152.4559936523
+    ],
+    "text":"Converts retrieved  context\/coordinates  into a structured  response for UI  consumption. ",
+    "created_at":"2025-12-16T10:11:00.110437"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c4",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.259333,
+      0.867145,
+      0.319038
+    ],
+    "bbox_abs":[
+      72.0,
+      205.391998291,
+      530.6926879883,
+      252.6779937744
+    ],
+    "text":"Part III: Frontend Engineering for Dynamic Forms and  UX Synchronization ",
+    "created_at":"2025-12-16T10:11:00.110444"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c5",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.363553,
+      0.876758,
+      0.399881
+    ],
+    "bbox_abs":[
+      72.0,
+      287.9339904785,
+      536.5756225586,
+      316.7059936523
+    ],
+    "text":"The complexity of this system is heavily concentrated on the client-side, where dynamic form  generation must intersect with precise, annotated PDF rendering and scroll synchronization. ",
+    "created_at":"2025-12-16T10:11:00.110446"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c6",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.450652,
+      0.83109,
+      0.497404
+    ],
+    "bbox_abs":[
+      72.0,
+      356.916015625,
+      508.6272277832,
+      393.9440002441
+    ],
+    "text":"3.1. The Composable App Builder Framework: Runtime Rendering  Architecture ",
+    "created_at":"2025-12-16T10:11:00.110449"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c7",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.541583,
+      0.858258,
+      0.596851
+    ],
+    "bbox_abs":[
+      72.0,
+      428.9339904785,
+      525.2539672852,
+      472.7059936523
+    ],
+    "text":"The front-end framework must be architected for maximal flexibility and performance. This  begins with a decoupled architecture where the UI rendering is driven entirely by a  configuration layer (the JSON Schema). ",
+    "created_at":"2025-12-16T10:11:00.110451"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c8",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.647636,
+      0.541119,
+      0.666606
+    ],
+    "bbox_abs":[
+      72.0,
+      512.9280395508,
+      331.1645507812,
+      527.9520263672
+    ],
+    "text":"Dynamic Renderer and Metadata Embedding ",
+    "created_at":"2025-12-16T10:11:00.110454"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c9",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.710144,
+      0.883645,
+      0.805184
+    ],
+    "bbox_abs":[
+      72.0,
+      562.4340209961,
+      540.7908935547,
+      637.7059936523
+    ],
+    "text":"Libraries such as SurveyJS or formio.js provide the necessary infrastructure to dynamically  ingest the flexible, nested JSON schemas generated by the AI Composer and render complex  forms compatible with common modern JavaScript frameworks (React, Vue, Angular). 27  These  libraries facilitate the creation of custom input fields and workflows, fulfilling the requirement  for composable, editable questionnaires. ",
+    "created_at":"2025-12-16T10:11:00.110461"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p9_c10",
+    "page":9,
+    "bbox_normalized":[
+      0.117647,
+      0.821886,
+      0.884319,
+      0.897987
+    ],
+    "bbox_abs":[
+      72.0,
+      650.9340209961,
+      541.2033081055,
+      711.2059936523
+    ],
+    "text":"Crucially, the architecture must support  pre-grounding  to reduce runtime latency.  Performance is paramount in industrial settings, where sluggish AI interactions erode operator  trust. 3  To avoid a costly RAG query for every field interaction, the bounding box coordinates  (page_number, chunk_ID, coordinates) of the corresponding source text should be embedded ",
+    "created_at":"2025-12-16T10:11:00.110468"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c1",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.090826,
+      0.872537,
+      0.165033
+    ],
+    "bbox_abs":[
+      72.0,
+      71.9339981079,
+      533.9925537109,
+      130.7059936523
+    ],
+    "text":"directly as non-rendered metadata within the JSON definition of each generated form field  during the initial AI Composer run. This means that focusing on a form field only requires a  low-latency metadata lookup, reserving real-time RAG calls only for complex, free-form Q&A  sessions. ",
+    "created_at":"2025-12-16T10:11:00.114861"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c2",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.215803,
+      0.649856,
+      0.237934
+    ],
+    "bbox_abs":[
+      72.0,
+      170.9160003662,
+      397.7116394043,
+      188.4440002441
+    ],
+    "text":"3.2. High-Fidelity PDF Rendering and Annotation ",
+    "created_at":"2025-12-16T10:11:00.114864"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c3",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.282114,
+      0.661781,
+      0.299503
+    ],
+    "bbox_abs":[
+      72.0,
+      223.4339904785,
+      405.0098266602,
+      237.2059936523
+    ],
+    "text":"The PDF panel must function as a synchronized, interactive viewer. ",
+    "created_at":"2025-12-16T10:11:00.114867"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c4",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.350288,
+      0.459236,
+      0.369258
+    ],
+    "bbox_abs":[
+      72.0,
+      277.4279785156,
+      281.0524597168,
+      292.4519958496
+    ],
+    "text":"Viewer Technology and Highlighting ",
+    "created_at":"2025-12-16T10:11:00.114869"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c5",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.412795,
+      0.885432,
+      0.509048
+    ],
+    "bbox_abs":[
+      72.0,
+      326.9339904785,
+      541.8845214844,
+      403.1659851074
+    ],
+    "text":"The PDF viewer requires high-performance rendering and the capability for external  programmatic manipulation. Open-source solutions like PDF.js are viable for rendering PDFs in  a browser environment  15 , though commercial or custom SDKs are often necessary for  advanced features like seamless server-side editing or optimized WebAssembly (Wasm)  rendering. 29 ",
+    "created_at":"2025-12-16T10:11:00.114872"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c6",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.526432,
+      0.885946,
+      0.583593
+    ],
+    "bbox_abs":[
+      72.0,
+      416.9339904785,
+      542.1990356445,
+      462.2059936523
+    ],
+    "text":"Programmatic highlighting is achieved by creating dynamic HTML elements (e.g., transparent,  absolute-positioned div overlays) on a layer positioned directly above the PDF canvas. 21  These  overlays are defined by the returned bounding box coordinates. ",
+    "created_at":"2025-12-16T10:11:00.114874"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c7",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.634379,
+      0.49653,
+      0.653349
+    ],
+    "bbox_abs":[
+      72.0,
+      502.4280090332,
+      303.8764648438,
+      517.4520263672
+    ],
+    "text":"Execution of Coordinate Transformation ",
+    "created_at":"2025-12-16T10:11:00.114877"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c8",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.696886,
+      0.882271,
+      0.827912
+    ],
+    "bbox_abs":[
+      72.0,
+      551.9340209961,
+      539.9495849609,
+      655.7059936523
+    ],
+    "text":"The front-end must execute the  Coordinate Transformation Service  immediately upon  receiving the stored PDF points from the form field metadata or the RAG API. This client-side  function references the PDF viewer's current state (scroll offset, zoom level, and scale) and  calculates the precise pixel coordinates for positioning the HTML overlay and triggering the  scroll operation. This service is a major engineering effort, requiring precise handling of  document scaling to ensure the highlight rectangle accurately overlays the target text despite  user interaction. ",
+    "created_at":"2025-12-16T10:11:00.114879"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p10_c9",
+    "page":10,
+    "bbox_normalized":[
+      0.117647,
+      0.878682,
+      0.835183,
+      0.900813
+    ],
+    "bbox_abs":[
+      72.0,
+      695.916015625,
+      511.1317749023,
+      713.4440307617
+    ],
+    "text":"3.3. Scroll Synchronization Mechanisms: Linking Semantic Flow to ",
+    "created_at":"2025-12-16T10:11:00.114881"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c1",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.090803,
+      0.281258,
+      0.112934
+    ],
+    "bbox_abs":[
+      72.0,
+      71.9160003662,
+      172.129699707,
+      89.4440002441
+    ],
+    "text":"Visual Position ",
+    "created_at":"2025-12-16T10:11:00.119402"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c2",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.157114,
+      0.85824,
+      0.193442
+    ],
+    "bbox_abs":[
+      72.0,
+      124.4339981079,
+      525.2429199219,
+      153.2059936523
+    ],
+    "text":"The most sophisticated feature is the real-time synchronization between the dynamic form  panel and the static PDF reference panel. This synchronization must be bi-directional. ",
+    "created_at":"2025-12-16T10:11:00.119404"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c3",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.244227,
+      0.498177,
+      0.263197
+    ],
+    "bbox_abs":[
+      72.0,
+      193.4280090332,
+      304.8844909668,
+      208.4520111084
+    ],
+    "text":"Targeted Deep Link (Form-Driven Scroll) ",
+    "created_at":"2025-12-16T10:11:00.119407"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c4",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.306735,
+      0.872373,
+      0.401093
+    ],
+    "bbox_abs":[
+      72.0,
+      242.9339904785,
+      533.8925170898,
+      317.666015625
+    ],
+    "text":"When an operator focuses or clicks on a specific form input field, the system performs a  Targeted Deep Link . It retrieves the pre-embedded coordinate metadata for that field, uses  the Coordinate Transformation Service to calculate the target pixel position, and triggers a  smooth scroll operation within the PDF viewer\u2019s frame to bring the corresponding source  instruction into the operator\u2019s immediate viewport. 30 ",
+    "created_at":"2025-12-16T10:11:00.119409"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c5",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.454455,
+      0.487628,
+      0.473424
+    ],
+    "bbox_abs":[
+      72.0,
+      359.9279785156,
+      298.4284362793,
+      374.9519958496
+    ],
+    "text":"Passive Scroll Sync (Form Panel to PDF) ",
+    "created_at":"2025-12-16T10:11:00.119412"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c6",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.516962,
+      0.882576,
+      0.573442
+    ],
+    "bbox_abs":[
+      72.0,
+      409.4339904785,
+      540.1366577148,
+      454.1659851074
+    ],
+    "text":"Synchronizing the movement of two independent scrollable containers presents a challenge,  as simple linear percentage syncing often fails due to divergent content heights\u2014the dynamic  form content is variable, while the PDF content is fixed. 31 ",
+    "created_at":"2025-12-16T10:11:00.119414"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c7",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.590826,
+      0.883745,
+      0.702912
+    ],
+    "bbox_abs":[
+      72.0,
+      467.9339904785,
+      540.8518066406,
+      556.7059936523
+    ],
+    "text":"The highly effective approach is  Semantic Section Synchronization . When the operator  scrolls the form panel, the JavaScript event listener identifies which  semantic chunk  (e.g.,  \"Step 3: Verification Check\") of the dynamic form is currently in the viewport. The system then  forces the PDF viewer to scroll and display the page and section coordinates associated with  that semantically relevant chunk, ensuring that the visual reference panel always aligns with  the current operational instruction, regardless of minor scroll discrepancies. ",
+    "created_at":"2025-12-16T10:11:00.119416"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c8",
+    "page":11,
+    "bbox_normalized":[
+      0.117647,
+      0.719614,
+      0.583362,
+      0.737003
+    ],
+    "bbox_abs":[
+      72.0,
+      569.9340209961,
+      357.0175170898,
+      583.7059936523
+    ],
+    "text":"Table 3: Frontend Synchronization Implementation Matrix ",
+    "created_at":"2025-12-16T10:11:00.119419"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c9",
+    "page":11,
+    "bbox_normalized":[
+      0.132353,
+      0.762227,
+      0.656763,
+      0.798556
+    ],
+    "bbox_abs":[
+      81.0,
+      603.6840209961,
+      401.9392089844,
+      632.4559936523
+    ],
+    "text":"Mechanism  Trigger Event  Client-Side  Implementation ",
+    "created_at":"2025-12-16T10:11:00.119421"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c10",
+    "page":11,
+    "bbox_normalized":[
+      0.705882,
+      0.762227,
+      0.825992,
+      0.798556
+    ],
+    "bbox_abs":[
+      432.0,
+      603.6840209961,
+      505.507019043,
+      632.4559936523
+    ],
+    "text":"Challenges &  Mitigation ",
+    "created_at":"2025-12-16T10:11:00.119424"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c11",
+    "page":11,
+    "bbox_normalized":[
+      0.132353,
+      0.82378,
+      0.278003,
+      0.860109
+    ],
+    "bbox_abs":[
+      81.0,
+      652.4340209961,
+      170.1376647949,
+      681.2059936523
+    ],
+    "text":"Form Field Deep  Link ",
+    "created_at":"2025-12-16T10:11:00.119426"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c12",
+    "page":11,
+    "bbox_normalized":[
+      0.323529,
+      0.82378,
+      0.480675,
+      0.879048
+    ],
+    "bbox_abs":[
+      198.0,
+      652.4340209961,
+      294.1728515625,
+      696.2059936523
+    ],
+    "text":"Operator  focuses\/clicks  specific form input ",
+    "created_at":"2025-12-16T10:11:00.119428"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c13",
+    "page":11,
+    "bbox_normalized":[
+      0.514706,
+      0.82378,
+      0.656799,
+      0.897987
+    ],
+    "bbox_abs":[
+      315.0,
+      652.4340209961,
+      401.9609985352,
+      711.2059936523
+    ],
+    "text":"JS scrollIntoView  on PDF viewer;  programmatic  highlight of ",
+    "created_at":"2025-12-16T10:11:00.119431"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p11_c14",
+    "page":11,
+    "bbox_normalized":[
+      0.705882,
+      0.82378,
+      0.862399,
+      0.897987
+    ],
+    "bbox_abs":[
+      432.0,
+      652.4340209961,
+      527.787902832,
+      711.2059936523
+    ],
+    "text":"Challenge:   Latency if RAG call  is required.  Mitigation:  ",
+    "created_at":"2025-12-16T10:11:00.119438"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c1",
+    "page":12,
+    "bbox_normalized":[
+      0.323529,
+      0.099348,
+      0.838223,
+      0.211434
+    ],
+    "bbox_abs":[
+      198.0,
+      78.6839981079,
+      512.9923706055,
+      167.4559936523
+    ],
+    "text":"field.  associated text.  Pre-cache  bounding box  metadata in the  form schema  (low-latency  lookup). ",
+    "created_at":"2025-12-16T10:11:00.122272"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c2",
+    "page":12,
+    "bbox_normalized":[
+      0.132353,
+      0.236659,
+      0.257365,
+      0.272987
+    ],
+    "bbox_abs":[
+      81.0,
+      187.4339904785,
+      157.5074462891,
+      216.2059936523
+    ],
+    "text":"Passive Scroll  Sync ",
+    "created_at":"2025-12-16T10:11:00.122277"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c3",
+    "page":12,
+    "bbox_normalized":[
+      0.323529,
+      0.236659,
+      0.474711,
+      0.291927
+    ],
+    "bbox_abs":[
+      198.0,
+      187.4339904785,
+      290.5231018066,
+      231.2059936523
+    ],
+    "text":"Operator scrolls  the content within  the Form Panel. ",
+    "created_at":"2025-12-16T10:11:00.122280"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c4",
+    "page":12,
+    "bbox_normalized":[
+      0.514706,
+      0.236659,
+      0.673575,
+      0.310866
+    ],
+    "bbox_abs":[
+      315.0,
+      187.4339904785,
+      412.227722168,
+      246.2059936523
+    ],
+    "text":"JavaScript onscroll  listener; calculates  active semantic  section\/step ID. ",
+    "created_at":"2025-12-16T10:11:00.122282"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c5",
+    "page":12,
+    "bbox_normalized":[
+      0.705882,
+      0.236659,
+      0.864285,
+      0.424503
+    ],
+    "bbox_abs":[
+      432.0,
+      187.4339904785,
+      528.9423217773,
+      336.2059936523
+    ],
+    "text":"Challenge:   Divergent scroll  ratios between  dynamic form and  fixed PDF.  Mitigation:  Sync  based on semantic  section (Step ID)  rather than linear  scroll percentage. ",
+    "created_at":"2025-12-16T10:11:00.122284"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c6",
+    "page":12,
+    "bbox_normalized":[
+      0.132353,
+      0.449727,
+      0.270548,
+      0.486056
+    ],
+    "bbox_abs":[
+      81.0,
+      356.1839904785,
+      165.5752105713,
+      384.9559936523
+    ],
+    "text":"Coordinate  Transformation ",
+    "created_at":"2025-12-16T10:11:00.122287"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c7",
+    "page":12,
+    "bbox_normalized":[
+      0.323529,
+      0.449727,
+      0.48362,
+      0.542874
+    ],
+    "bbox_abs":[
+      198.0,
+      356.1839904785,
+      295.9755554199,
+      429.9559936523
+    ],
+    "text":"RAG API returns  bounding box (PDF  units) or form  metadata  accessed. ",
+    "created_at":"2025-12-16T10:11:00.122289"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c8",
+    "page":12,
+    "bbox_normalized":[
+      0.514706,
+      0.449727,
+      0.678856,
+      0.561813
+    ],
+    "bbox_abs":[
+      315.0,
+      356.1839904785,
+      415.4596252441,
+      444.9559936523
+    ],
+    "text":"Custom JS function  to convert PDF  points to current  browser pixels  (accounting for  zoom\/scale). ",
+    "created_at":"2025-12-16T10:11:00.122291"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c9",
+    "page":12,
+    "bbox_normalized":[
+      0.705882,
+      0.449727,
+      0.869816,
+      0.65651
+    ],
+    "bbox_abs":[
+      432.0,
+      356.1839904785,
+      532.3276367188,
+      519.9559936523
+    ],
+    "text":"Challenge:   Inaccuracies due to  variable  zoom\/device  resolution.  Mitigation:  Use  WASM PDF viewer  with explicit scale  management and  device calibration  testing. ",
+    "created_at":"2025-12-16T10:11:00.122293"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c10",
+    "page":12,
+    "bbox_normalized":[
+      0.132353,
+      0.681735,
+      0.22694,
+      0.718063
+    ],
+    "bbox_abs":[
+      81.0,
+      539.9340209961,
+      138.8870391846,
+      568.7059936523
+    ],
+    "text":"Highlight  Rendering ",
+    "created_at":"2025-12-16T10:11:00.122296"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c11",
+    "page":12,
+    "bbox_normalized":[
+      0.323529,
+      0.681735,
+      0.448614,
+      0.737003
+    ],
+    "bbox_abs":[
+      198.0,
+      539.9340209961,
+      274.5514831543,
+      583.7059936523
+    ],
+    "text":"Coordinate  transformation  complete. ",
+    "created_at":"2025-12-16T10:11:00.122298"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c12",
+    "page":12,
+    "bbox_normalized":[
+      0.514706,
+      0.681735,
+      0.680544,
+      0.774881
+    ],
+    "bbox_abs":[
+      315.0,
+      539.9340209961,
+      416.4931335449,
+      613.7059936523
+    ],
+    "text":"Dynamic HTML  overlay (<div>)  using absolute  positioning (z-index  above PDF canvas). ",
+    "created_at":"2025-12-16T10:11:00.122300"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p12_c13",
+    "page":12,
+    "bbox_normalized":[
+      0.705882,
+      0.681735,
+      0.867139,
+      0.869578
+    ],
+    "bbox_abs":[
+      432.0,
+      539.9340209961,
+      530.6893310547,
+      688.7059936523
+    ],
+    "text":"Challenge:   Ensuring highlights  disappear upon  context change.  Mitigation:   Implement clear  and efficient state  management to  remove overlays on  context shift. ",
+    "created_at":"2025-12-16T10:11:00.122302"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c1",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.140015,
+      0.825292,
+      0.16847
+    ],
+    "bbox_abs":[
+      72.0,
+      110.891998291,
+      505.0787658691,
+      133.4279937744
+    ],
+    "text":"Part IV: Backend, Data Persistence, and Scalability ",
+    "created_at":"2025-12-16T10:11:00.126580"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c2",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.212985,
+      0.858061,
+      0.268253
+    ],
+    "bbox_abs":[
+      72.0,
+      168.6839904785,
+      525.1331787109,
+      212.4559936523
+    ],
+    "text":"While the AI pipeline and front-end synchronization are the most visible components, the  success of a composable industrial platform relies heavily on a robust and flexible backend  infrastructure. ",
+    "created_at":"2025-12-16T10:11:00.126583"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c3",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.319023,
+      0.64654,
+      0.341154
+    ],
+    "bbox_abs":[
+      72.0,
+      252.6660003662,
+      395.6822814941,
+      270.1940002441
+    ],
+    "text":"4.1. Data Modeling for Composable Applications ",
+    "created_at":"2025-12-16T10:11:00.126585"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c4",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.385333,
+      0.866088,
+      0.48348
+    ],
+    "bbox_abs":[
+      72.0,
+      305.1839904785,
+      530.0459594727,
+      382.9159851074
+    ],
+    "text":"Industrial applications must reconcile the need for structured data (required for traceability,  analytics, and GxP compliance)  4  with the inherent flexibility of AI-generated, composable  workflows. 5  Traditional relational modeling struggles when schema needs to change rapidly,  or when complex, nested data structures are involved, often leading to  performance-impacting join operations. 32 ",
+    "created_at":"2025-12-16T10:11:00.126588"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c5",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.500864,
+      0.879005,
+      0.655828
+    ],
+    "bbox_abs":[
+      72.0,
+      396.6839904785,
+      537.9510498047,
+      519.416015625
+    ],
+    "text":"The optimal approach is  Hybrid Persistence  utilizing a modern relational database with  advanced NoSQL capabilities. PostgreSQL\u2019s JSONB datatype is highly recommended. 33   JSONB allows the system to store the variable, nested definitions of the AI-generated form  schemas and the resulting form instance data within a single column. 33  This maintains the  transactional reliability and indexing power of a relational database while providing the  schema flexibility and simplified querying typically associated with document databases. This  adherence to a Unified Data Architecture (UDA) is critical for handling complex, hierarchical  data structures efficiently for subsequent analytics. 34 ",
+    "created_at":"2025-12-16T10:11:00.126590"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c6",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.709174,
+      0.47685,
+      0.731306
+    ],
+    "bbox_abs":[
+      72.0,
+      561.666015625,
+      291.8324584961,
+      579.1940307617
+    ],
+    "text":"4.2. API and Orchestration Layer ",
+    "created_at":"2025-12-16T10:11:00.126592"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c7",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.775485,
+      0.836938,
+      0.811813
+    ],
+    "bbox_abs":[
+      72.0,
+      614.1840209961,
+      512.2062988281,
+      642.9559936523
+    ],
+    "text":"The middleware layer must be designed to handle orchestration, data management, and  low-latency RAG requests. ",
+    "created_at":"2025-12-16T10:11:00.126595"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p13_c8",
+    "page":13,
+    "bbox_normalized":[
+      0.117647,
+      0.828515,
+      0.860735,
+      0.883783
+    ],
+    "bbox_abs":[
+      72.0,
+      656.1840209961,
+      526.7699584961,
+      699.9559936523
+    ],
+    "text":"A dedicated  Orchestration\/Composer API  is required to manage the multi-stage,  asynchronous workflow triggered by the PDF upload: handling the handoff between the  parser, the chunking\/embedding services, and the LLM schema generator. This API ensures ",
+    "created_at":"2025-12-16T10:11:00.126597"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c1",
+    "page":14,
+    "bbox_normalized":[
+      0.117647,
+      0.090673,
+      0.787047,
+      0.109427
+    ],
+    "bbox_abs":[
+      72.0,
+      71.8127975464,
+      481.6727294922,
+      86.6660003662
+    ],
+    "text":"that the entire PDF-to-app conversion process is tracked and completed reliably. 11 ",
+    "created_at":"2025-12-16T10:11:00.132093"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c2",
+    "page":14,
+    "bbox_normalized":[
+      0.117647,
+      0.126811,
+      0.869197,
+      0.182078
+    ],
+    "bbox_abs":[
+      72.0,
+      100.4339981079,
+      531.948425293,
+      144.2059936523
+    ],
+    "text":"A  Low-Latency RAG API  is essential for all real-time operator queries, designed for high  throughput and sub-second response times. Finally, a standard  Data API  handles the CRUD  operations for the JSONB-stored form definitions and execution data. ",
+    "created_at":"2025-12-16T10:11:00.132095"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c3",
+    "page":14,
+    "bbox_normalized":[
+      0.117647,
+      0.198627,
+      0.886774,
+      0.314654
+    ],
+    "bbox_abs":[
+      72.0,
+      157.3128051758,
+      542.7056274414,
+      249.2059936523
+    ],
+    "text":"Given that frontline operations often occur in environments prone to network disruptions  4 , the  architecture must incorporate mechanisms for  concurrency and resilience . This includes  specifying client-side data persistence strategies, such as utilizing libraries like Room or  DataStore for local caching on operator devices, which allows work to continue offline. 36  The  orchestration layer must then manage the complex synchronization and transaction  management required to reconcile locally stored data once network connectivity is restored. ",
+    "created_at":"2025-12-16T10:11:00.132097"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c4",
+    "page":14,
+    "bbox_normalized":[
+      0.117647,
+      0.365394,
+      0.859174,
+      0.425098
+    ],
+    "bbox_abs":[
+      72.0,
+      289.391998291,
+      525.8146362305,
+      336.6780090332
+    ],
+    "text":"4.3. Strategic Recommendations for Implementation  and Validation ",
+    "created_at":"2025-12-16T10:11:00.132099"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c5",
+    "page":14,
+    "bbox_normalized":[
+      0.117647,
+      0.469614,
+      0.851952,
+      0.524881
+    ],
+    "bbox_abs":[
+      72.0,
+      371.9339904785,
+      521.3945922852,
+      415.7059936523
+    ],
+    "text":"The replication of a system like the Tulip Frontline Copilot, specifically its PDF-to-app  conversion with synchronized scrolling, necessitates focused investment in three strategic  areas: ",
+    "created_at":"2025-12-16T10:11:00.132102"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c6",
+    "page":14,
+    "bbox_normalized":[
+      0.127451,
+      0.534008,
+      0.868378,
+      0.551396
+    ],
+    "bbox_abs":[
+      78.0,
+      422.9339904785,
+      531.4470825195,
+      436.7059936523
+    ],
+    "text":"1.\u200b  Prioritization of Ingestion Quality:  The quality of the synchronized user experience is ",
+    "created_at":"2025-12-16T10:11:00.132104"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c7",
+    "page":14,
+    "bbox_normalized":[
+      0.127451,
+      0.552947,
+      0.878058,
+      0.665033
+    ],
+    "bbox_abs":[
+      78.0,
+      437.9339904785,
+      537.3712768555,
+      526.7059936523
+    ],
+    "text":"directly proportional to the accuracy of the initial document parsing. Investing in, or  developing, highly accurate layout parsers capable of extracting precise geometric  metadata and semantic structure is the single highest-return architectural decision. If  the initial coordinate extraction is flawed, the front-end synchronization and highlighting  will fail, regardless of the quality of the LLM or the front-end code.  2.\u200b  Performance Benchmarking of RAG Latency:  Since the Copilot's success relies on ",
+    "created_at":"2025-12-16T10:11:00.132106"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c8",
+    "page":14,
+    "bbox_normalized":[
+      0.127451,
+      0.666583,
+      0.865781,
+      0.761624
+    ],
+    "bbox_abs":[
+      78.0,
+      527.9340209961,
+      529.8577270508,
+      603.2059936523
+    ],
+    "text":"augmenting the human operator in real-time, RAG query latency must be aggressively  benchmarked and optimized to ensure sub-second response times for crucial  interactions. 3  Any delay introduces friction and compromises operator trust, potentially  leading to system abandonment.  3.\u200b  Phased Deployment Strategy:  Given the significant engineering complexity of the ",
+    "created_at":"2025-12-16T10:11:00.132108"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p14_c9",
+    "page":14,
+    "bbox_normalized":[
+      0.156863,
+      0.763174,
+      0.857976,
+      0.877154
+    ],
+    "bbox_abs":[
+      96.0,
+      604.4340209961,
+      525.0815429688,
+      694.7059936523
+    ],
+    "text":"Coordinate Transformation Service and bi-directional scroll synchronization, a phased  implementation is advisable. Initial deployment should focus on the core RAG Q&A  functionality that provides text answers and page number references. 6  Subsequent  phases can introduce the full geometric coordinate retrieval and visualization features  (highlighting and scroll synchronization) once the foundational RAG pipeline is proven  stable and reliable. ",
+    "created_at":"2025-12-16T10:11:00.132110"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c1",
+    "page":15,
+    "bbox_normalized":[
+      0.117647,
+      0.132439,
+      0.296117,
+      0.160894
+    ],
+    "bbox_abs":[
+      72.0,
+      104.891998291,
+      181.2236938477,
+      127.4280014038
+    ],
+    "text":"Conclusions ",
+    "created_at":"2025-12-16T10:11:00.137762"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c2",
+    "page":15,
+    "bbox_normalized":[
+      0.117647,
+      0.205409,
+      0.871978,
+      0.298556
+    ],
+    "bbox_abs":[
+      72.0,
+      162.6839904785,
+      533.6506958008,
+      236.4559936523
+    ],
+    "text":"The Tulip AI Frontline Copilot and AI Composer represent an advanced application of  Retrieval-Augmented Generation (RAG) technology, moving beyond simple chatbot Q&A into  the realm of structured workflow automation. The unique complexity lies in the seamless  integration of LLM-driven schema generation with high-fidelity, coordinate-based visual  grounding of the source material. ",
+    "created_at":"2025-12-16T10:11:00.137765"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c3",
+    "page":15,
+    "bbox_normalized":[
+      0.117647,
+      0.315258,
+      0.868027,
+      0.351586
+    ],
+    "bbox_abs":[
+      72.0,
+      249.6839904785,
+      531.2326660156,
+      278.4559936523
+    ],
+    "text":"To replicate the core feature set\u2014composable, editable forms synchronized with a scrolling,  referenced PDF\u2014requires a highly specialized technical stack: ",
+    "created_at":"2025-12-16T10:11:00.137767"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c4",
+    "page":15,
+    "bbox_normalized":[
+      0.126225,
+      0.360712,
+      0.84865,
+      0.378101
+    ],
+    "bbox_abs":[
+      77.25,
+      285.6839904785,
+      519.3739624023,
+      299.4559936523
+    ],
+    "text":"\u25cf\u200b  A  layout-aware RAG pipeline  that stores geometric bounding box coordinates in its ",
+    "created_at":"2025-12-16T10:11:00.137770"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c5",
+    "page":15,
+    "bbox_normalized":[
+      0.126225,
+      0.379652,
+      0.824062,
+      0.41598
+    ],
+    "bbox_abs":[
+      77.25,
+      300.6839904785,
+      504.3262329102,
+      329.4559936523
+    ],
+    "text":"vector database metadata.  \u25cf\u200b  A  hybrid persistence layer (e.g., JSONB)  to manage the flexible schemas of the ",
+    "created_at":"2025-12-16T10:11:00.137772"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c6",
+    "page":15,
+    "bbox_normalized":[
+      0.126225,
+      0.41753,
+      0.825193,
+      0.453859
+    ],
+    "bbox_abs":[
+      77.25,
+      330.6839904785,
+      505.0182800293,
+      359.4559936523
+    ],
+    "text":"generated applications while maintaining transactional integrity.  \u25cf\u200b  A  decoupled front-end architecture  that leverages dynamic form renderers and ",
+    "created_at":"2025-12-16T10:11:00.137774"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c7",
+    "page":15,
+    "bbox_normalized":[
+      0.126225,
+      0.455409,
+      0.87191,
+      0.529616
+    ],
+    "bbox_abs":[
+      77.25,
+      360.6839904785,
+      533.6087646484,
+      419.4559936523
+    ],
+    "text":"implements a custom, client-side  Coordinate Transformation Service  to accurately  translate stored PDF points into actionable screen pixel coordinates for highlighting and  scroll operations.  \u25cf\u200b  Pre-grounding strategies  that embed coordinate metadata directly into the form ",
+    "created_at":"2025-12-16T10:11:00.137776"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c8",
+    "page":15,
+    "bbox_normalized":[
+      0.155637,
+      0.531167,
+      0.858422,
+      0.567495
+    ],
+    "bbox_abs":[
+      95.25,
+      420.6839904785,
+      525.3540039062,
+      449.4559936523
+    ],
+    "text":"schema at the time of creation, significantly reducing the latency of reference lookups  during active use. ",
+    "created_at":"2025-12-16T10:11:00.137778"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c9",
+    "page":15,
+    "bbox_normalized":[
+      0.117647,
+      0.584197,
+      0.876723,
+      0.639465
+    ],
+    "bbox_abs":[
+      72.0,
+      462.6839904785,
+      536.5542602539,
+      506.4559936523
+    ],
+    "text":"The successful implementation of such an architecture provides a powerful competitive  advantage by delivering high-trust, grounded, and composable operational guidance directly  to the frontline workforce. ",
+    "created_at":"2025-12-16T10:11:00.137780"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c10",
+    "page":15,
+    "bbox_normalized":[
+      0.117647,
+      0.657106,
+      0.234,
+      0.676076
+    ],
+    "bbox_abs":[
+      72.0,
+      520.4280395508,
+      143.2081451416,
+      535.4520263672
+    ],
+    "text":"Works cited ",
+    "created_at":"2025-12-16T10:11:00.137783"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c11",
+    "page":15,
+    "bbox_normalized":[
+      0.137255,
+      0.691197,
+      0.866433,
+      0.710167
+    ],
+    "bbox_abs":[
+      84.0,
+      547.4280395508,
+      530.2567749023,
+      562.4520263672
+    ],
+    "text":"1.\u200b  Live Demo: AI Co-pilot & Composer for Manufacturing, accessed November 18, ",
+    "created_at":"2025-12-16T10:11:00.137792"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c12",
+    "page":15,
+    "bbox_normalized":[
+      0.137255,
+      0.709189,
+      0.87304,
+      0.782136
+    ],
+    "bbox_abs":[
+      84.0,
+      561.6780395508,
+      534.30078125,
+      619.4520263672
+    ],
+    "text":"2025,  https:\/\/www.frontlineoperations.ai\/post\/live-demo-ai-co-pilot-composer-for-ma nufacturing  2.\u200b  Announcing Frontline Copilot\u2122 \u2013 AI Tools in Tulip To Assist\u2026 | Tulip, accessed ",
+    "created_at":"2025-12-16T10:11:00.137794"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c13",
+    "page":15,
+    "bbox_normalized":[
+      0.137255,
+      0.781159,
+      0.862903,
+      0.818121
+    ],
+    "bbox_abs":[
+      84.0,
+      618.6780395508,
+      528.0967407227,
+      647.9520263672
+    ],
+    "text":"November 18, 2025,  https:\/\/tulip.co\/blog\/announcing-frontline-copilot\/  3.\u200b  AI Copilot for Manufacturing: Enhancing Operations with Artificial Intelligence - ",
+    "created_at":"2025-12-16T10:11:00.137796"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c14",
+    "page":15,
+    "bbox_normalized":[
+      0.137255,
+      0.817144,
+      0.881217,
+      0.872099
+    ],
+    "bbox_abs":[
+      84.0,
+      647.1780395508,
+      539.3047485352,
+      690.7020263672
+    ],
+    "text":"Tulip Co, accessed November 18, 2025,  https:\/\/tulip.co\/blog\/ai-manufacturing-copilot\/  4.\u200b  Tulip Frontline Operations Platform - Microsoft Marketplace, accessed November ",
+    "created_at":"2025-12-16T10:11:00.137798"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p15_c15",
+    "page":15,
+    "bbox_normalized":[
+      0.166667,
+      0.871121,
+      0.881844,
+      0.908083
+    ],
+    "bbox_abs":[
+      102.0,
+      689.9280395508,
+      539.6887207031,
+      719.2020263672
+    ],
+    "text":"18, 2025,  https:\/\/marketplace.microsoft.com\/zh-cn\/product\/web-apps\/tulipinterfacesinc.off",
+    "created_at":"2025-12-16T10:11:00.137800"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c1",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.090818,
+      0.836374,
+      0.12778
+    ],
+    "bbox_abs":[
+      84.0,
+      71.9279937744,
+      511.8607177734,
+      101.2019958496
+    ],
+    "text":"er_frontline_operations?tab=overview  5.\u200b  What Is a Composable Tech Stack and How Do You Build One? - Webstacks, ",
+    "created_at":"2025-12-16T10:11:00.143787"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c2",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.126803,
+      0.849001,
+      0.181758
+    ],
+    "bbox_abs":[
+      84.0,
+      100.4280014038,
+      519.5887451172,
+      143.9520111084
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/www.webstacks.com\/blog\/composable-tech-stack  6.\u200b  Document Q&A with Copilot - Tulip Knowledge Base, accessed November 18, ",
+    "created_at":"2025-12-16T10:11:00.143790"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c3",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.18078,
+      0.861825,
+      0.217742
+    ],
+    "bbox_abs":[
+      84.0,
+      143.1780090332,
+      527.4367675781,
+      172.4520111084
+    ],
+    "text":"2025,  https:\/\/support.tulip.co\/docs\/document-qa-with-copilot  7.\u200b  What is RAG? - Retrieval-Augmented Generation AI Explained - AWS, accessed ",
+    "created_at":"2025-12-16T10:11:00.143793"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c4",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.216765,
+      0.800315,
+      0.27172
+    ],
+    "bbox_abs":[
+      84.0,
+      171.6780090332,
+      489.7927246094,
+      215.2020111084
+    ],
+    "text":"November 18, 2025,  https:\/\/aws.amazon.com\/what-is\/retrieval-augmented-generation\/  8.\u200b  What is Retrieval Augmented Generation (RAG)? - Databricks, accessed ",
+    "created_at":"2025-12-16T10:11:00.143795"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c5",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.270742,
+      0.830334,
+      0.325697
+    ],
+    "bbox_abs":[
+      84.0,
+      214.4280090332,
+      508.1647033691,
+      257.9519958496
+    ],
+    "text":"November 18, 2025,  https:\/\/www.databricks.com\/glossary\/retrieval-augmented-generation-rag  9.\u200b  Transform PDFs into Interactive Apps: Tulips AI Composer Demo - YouTube, ",
+    "created_at":"2025-12-16T10:11:00.143797"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c6",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.32472,
+      0.869942,
+      0.361682
+    ],
+    "bbox_abs":[
+      84.0,
+      257.1779785156,
+      532.4047851562,
+      286.4519958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/www.youtube.com\/watch?v=53E3Cjq9yYA  10.\u200b Introducing AI Composer: Instantly Turn SOPs into Interactive Apps - Tulip Co, ",
+    "created_at":"2025-12-16T10:11:00.143800"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c7",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.360705,
+      0.841393,
+      0.397667
+    ],
+    "bbox_abs":[
+      84.0,
+      285.6779785156,
+      514.9327392578,
+      314.9519958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/tulip.co\/blog\/introducing-ai-composer\/  11.\u200b Tulip AI composer, accessed November 18, 2025, ",
+    "created_at":"2025-12-16T10:11:00.143802"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c8",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.396689,
+      0.817374,
+      0.433652
+    ],
+    "bbox_abs":[
+      84.0,
+      314.1779785156,
+      500.2327270508,
+      343.4519958496
+    ],
+    "text":"https:\/\/support.tulip.co\/docs\/tulip-ai-composer  12.\u200b Build Apps from SOPs with AI Composer \u2013 Now with Templates - Tulip Co, ",
+    "created_at":"2025-12-16T10:11:00.143804"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c9",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.432674,
+      0.875982,
+      0.523614
+    ],
+    "bbox_abs":[
+      84.0,
+      342.6779785156,
+      536.1008911133,
+      414.7019958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/tulip.co\/blog\/build-apps-from-sops-with-ai-composer-now-with-templat es\/  13.\u200b 25 chunking tricks for RAG that devs actually use | by  14.\u200b Parse and chunk documents | Vertex AI Search - Google Cloud Documentation, ",
+    "created_at":"2025-12-16T10:11:00.143806"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c10",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.522636,
+      0.872001,
+      0.595583
+    ],
+    "bbox_abs":[
+      84.0,
+      413.9279785156,
+      533.6647338867,
+      471.7019958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/docs.cloud.google.com\/generative-ai-app-builder\/docs\/parse-chunk-doc uments  15.\u200b Best PDF Parsers for RAG Applications - DEV Community, accessed November ",
+    "created_at":"2025-12-16T10:11:00.143808"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c11",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.594606,
+      0.885276,
+      0.631568
+    ],
+    "bbox_abs":[
+      84.0,
+      470.9279785156,
+      541.7887573242,
+      500.2019958496
+    ],
+    "text":"18, 2025,  https:\/\/dev.to\/biomathcode\/best-pdf-parsers-for-rag-applications-26j8  16.\u200b RAG technique using Document Extraction API. | LandingAI Community, accessed ",
+    "created_at":"2025-12-16T10:11:00.143810"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c12",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.630591,
+      0.875942,
+      0.703538
+    ],
+    "bbox_abs":[
+      84.0,
+      499.4279785156,
+      536.0767822266,
+      557.2020263672
+    ],
+    "text":"November 18, 2025,  https:\/\/community.landing.ai\/c\/questions-insights-ade\/rag-technique-using-docu ment-extraction-api  17.\u200b Implement RAG chunking strategies with LangChain and watsonx.ai - IBM, ",
+    "created_at":"2025-12-16T10:11:00.143812"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c13",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.702561,
+      0.879864,
+      0.775508
+    ],
+    "bbox_abs":[
+      84.0,
+      556.4280395508,
+      538.4768676758,
+      614.2020263672
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/www.ibm.com\/think\/tutorials\/chunking-strategies-for-rag-with-langchain- watsonx-ai  18.\u200b Mastering Chunking Strategies for RAG: Best Practices & Code Examples - ",
+    "created_at":"2025-12-16T10:11:00.143814"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c14",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.77453,
+      0.874335,
+      0.847477
+    ],
+    "bbox_abs":[
+      84.0,
+      613.4280395508,
+      535.0927734375,
+      671.2020263672
+    ],
+    "text":"Databricks Community, accessed November 18, 2025,  https:\/\/community.databricks.com\/t5\/technical-blog\/the-ultimate-guide-to-chun king-strategies-for-rag-applications\/ba-p\/113089  19.\u200b 5 Best Embedding Models for RAG: How to Choose the Right One - GreenNode, ",
+    "created_at":"2025-12-16T10:11:00.143817"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p16_c15",
+    "page":16,
+    "bbox_normalized":[
+      0.137255,
+      0.8465,
+      0.83706,
+      0.901455
+    ],
+    "bbox_abs":[
+      84.0,
+      670.4280395508,
+      512.2807617188,
+      713.9520263672
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/greennode.ai\/blog\/best-embedding-models-for-rag  20.\u200b Develop a RAG Solution - Generate Embeddings Phase - Azure Architecture ",
+    "created_at":"2025-12-16T10:11:00.143822"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c1",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.090818,
+      0.874119,
+      0.163765
+    ],
+    "bbox_abs":[
+      84.0,
+      71.9279937744,
+      534.9606323242,
+      129.7019958496
+    ],
+    "text":"Center | Microsoft Learn, accessed November 18, 2025,  https:\/\/learn.microsoft.com\/en-us\/azure\/architecture\/ai-ml\/guide\/rag\/rag-generat e-embeddings  21.\u200b How to Find and Highlight Text in PDF Using JavaScript | by MESCIUS inc. - ",
+    "created_at":"2025-12-16T10:11:00.149288"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c2",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.162788,
+      0.878864,
+      0.235735
+    ],
+    "bbox_abs":[
+      84.0,
+      128.9280090332,
+      537.8648071289,
+      186.7020111084
+    ],
+    "text":"Medium, accessed November 18, 2025,  https:\/\/medium.com\/mesciusinc\/how-to-find-and-highlight-text-in-pdf-using-jav ascript-a56ab7b95230  22.\u200b How to use PDF.js to highlight text programmatically - Nutrient SDK, accessed ",
+    "created_at":"2025-12-16T10:11:00.149291"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c3",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.234758,
+      0.885433,
+      0.307705
+    ],
+    "bbox_abs":[
+      84.0,
+      185.9280090332,
+      541.8848266602,
+      243.7020111084
+    ],
+    "text":"November 18, 2025,  https:\/\/www.nutrient.io\/blog\/how-to-add-highlight-annotations-to-pdfs-in-javas cript\/  23.\u200b Designing a Custom Chatbot with RAG and Function Calling, accessed November ",
+    "created_at":"2025-12-16T10:11:00.149293"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c4",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.306727,
+      0.880844,
+      0.379674
+    ],
+    "bbox_abs":[
+      84.0,
+      242.9280090332,
+      539.0767822266,
+      300.7019958496
+    ],
+    "text":"18, 2025,  https:\/\/community.openai.com\/t\/designing-a-custom-chatbot-with-rag-and-func tion-calling\/1098582  24.\u200b Doing RAG on PDFs using File Search in the Responses API - OpenAI Cookbook, ",
+    "created_at":"2025-12-16T10:11:00.149296"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c5",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.378697,
+      0.865688,
+      0.433652
+    ],
+    "bbox_abs":[
+      84.0,
+      299.9279785156,
+      529.8008422852,
+      343.4519958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/cookbook.openai.com\/examples\/file_search_responses  25.\u200b What is RAG (Retrieval Augmented Generation)? - IBM, accessed November 18, ",
+    "created_at":"2025-12-16T10:11:00.149298"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c6",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.432674,
+      0.839766,
+      0.469636
+    ],
+    "bbox_abs":[
+      84.0,
+      342.6779785156,
+      513.9367675781,
+      371.9519958496
+    ],
+    "text":"2025,  https:\/\/www.ibm.com\/think\/topics\/retrieval-augmented-generation  26.\u200b What is Retrieval-Augmented Generation (RAG)? A Practical Guide - K2view, ",
+    "created_at":"2025-12-16T10:11:00.149300"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c7",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.468659,
+      0.876844,
+      0.523614
+    ],
+    "bbox_abs":[
+      84.0,
+      371.1779785156,
+      536.6287841797,
+      414.7019958496
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/www.k2view.com\/what-is-retrieval-augmented-generation  27.\u200b The Form.io Core Is An Open Source Form Builder, accessed November 18, 2025, ",
+    "created_at":"2025-12-16T10:11:00.149302"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c8",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.522636,
+      0.834099,
+      0.559598
+    ],
+    "bbox_abs":[
+      84.0,
+      413.9279785156,
+      510.46875,
+      443.2019958496
+    ],
+    "text":"https:\/\/form.io\/open-source\/  28.\u200b SurveyJS: Survey and Form Management Software, accessed November 18, ",
+    "created_at":"2025-12-16T10:11:00.149304"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c9",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.558621,
+      0.718021,
+      0.595583
+    ],
+    "bbox_abs":[
+      84.0,
+      442.4279785156,
+      439.4286193848,
+      471.7019958496
+    ],
+    "text":"2025,  https:\/\/surveyjs.io\/  29.\u200b Embeddable PDF Viewer Guide, accessed November 18, 2025, ",
+    "created_at":"2025-12-16T10:11:00.149306"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c10",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.594606,
+      0.702981,
+      0.631568
+    ],
+    "bbox_abs":[
+      84.0,
+      470.9279785156,
+      430.2245788574,
+      500.2019958496
+    ],
+    "text":"https:\/\/embeddable.co\/blog\/embeddable-pdf-viewer-guide  30.\u200b Smooth Scrolling - CSS-Tricks, accessed November 18, 2025, ",
+    "created_at":"2025-12-16T10:11:00.149308"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c11",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.630591,
+      0.876766,
+      0.667553
+    ],
+    "bbox_abs":[
+      84.0,
+      499.4279785156,
+      536.5808105469,
+      528.7020263672
+    ],
+    "text":"https:\/\/css-tricks.com\/snippets\/jquery\/smooth-scrolling\/  31.\u200b synchronise scrolling between 2 divs in native javascript (2020) - Stack Overflow, ",
+    "created_at":"2025-12-16T10:11:00.149310"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c12",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.666576,
+      0.873589,
+      0.739523
+    ],
+    "bbox_abs":[
+      84.0,
+      527.9280395508,
+      534.63671875,
+      585.7020263672
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/stackoverflow.com\/questions\/65117713\/synchronise-scrolling-between-2- divs-in-native-javascript-2020  32.\u200b Comparing Postgres JSONB With NoSQL Databases | Learn More - Couchbase, ",
+    "created_at":"2025-12-16T10:11:00.149312"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c13",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.738546,
+      0.789531,
+      0.7935
+    ],
+    "bbox_abs":[
+      84.0,
+      584.9280395508,
+      483.1926879883,
+      628.4520263672
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/www.couchbase.com\/blog\/postgres-jsonb-and-nosql\/  33.\u200b Bridging the Gap Between SQL and NoSQL in PostgreSQL with JSON - ",
+    "created_at":"2025-12-16T10:11:00.149314"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c14",
+    "page":17,
+    "bbox_normalized":[
+      0.137255,
+      0.792523,
+      0.879609,
+      0.86547
+    ],
+    "bbox_abs":[
+      84.0,
+      627.6780395508,
+      538.3207397461,
+      685.4520263672
+    ],
+    "text":"DbVisualizer, accessed November 18, 2025,  https:\/\/www.dbvis.com\/thetable\/bridging-the-gap-between-sql-and-nosql-in-po stgresql-with-json\/  34.\u200b Working with nested data types using Amazon Redshift Spectrum | AWS Big Data ",
+    "created_at":"2025-12-16T10:11:00.149317"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p17_c15",
+    "page":17,
+    "bbox_normalized":[
+      0.166667,
+      0.864492,
+      0.875982,
+      0.901455
+    ],
+    "bbox_abs":[
+      102.0,
+      684.6780395508,
+      536.100769043,
+      713.9520263672
+    ],
+    "text":"Blog, accessed November 18, 2025,  https:\/\/aws.amazon.com\/blogs\/big-data\/working-with-nested-data-types-using-",
+    "created_at":"2025-12-16T10:11:00.149319"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p18_c1",
+    "page":18,
+    "bbox_normalized":[
+      0.137255,
+      0.090818,
+      0.862158,
+      0.12778
+    ],
+    "bbox_abs":[
+      84.0,
+      71.9279937744,
+      527.6407470703,
+      101.2019958496
+    ],
+    "text":"amazon-redshift-spectrum\/  35.\u200b Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix, ",
+    "created_at":"2025-12-16T10:11:00.150666"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p18_c2",
+    "page":18,
+    "bbox_normalized":[
+      0.137255,
+      0.126803,
+      0.885805,
+      0.19975
+    ],
+    "bbox_abs":[
+      84.0,
+      100.4280014038,
+      542.1127319336,
+      158.2020111084
+    ],
+    "text":"accessed November 18, 2025,  https:\/\/netflixtechblog.com\/model-once-represent-everywhere-uda-unified-data -architecture-at-netflix-6a6aee261d8d  36.\u200b Data persistence - Android Basics with Compose - Android Developers, accessed ",
+    "created_at":"2025-12-16T10:11:00.150669"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p18_c3",
+    "page":18,
+    "bbox_normalized":[
+      0.137255,
+      0.198773,
+      0.836334,
+      0.253727
+    ],
+    "bbox_abs":[
+      84.0,
+      157.4280090332,
+      511.8367004395,
+      200.9520111084
+    ],
+    "text":"November 18, 2025,  https:\/\/developer.android.com\/courses\/android-basics-compose\/unit-6  37.\u200b Persist data with Room - Android Developers, accessed November 18, 2025, ",
+    "created_at":"2025-12-16T10:11:00.150671"
+  },
+  {
+    "chunk_id":"Building Tulip AI's Frontline Copilot-d9015c0d_p18_c4",
+    "page":18,
+    "bbox_normalized":[
+      0.166667,
+      0.25275,
+      0.872864,
+      0.289712
+    ],
+    "bbox_abs":[
+      102.0,
+      200.1780090332,
+      534.1927490234,
+      229.4520111084
+    ],
+    "text":"https:\/\/developer.android.com\/codelabs\/basic-android-kotlin-compose-persistin g-data-room ",
+    "created_at":"2025-12-16T10:11:00.150673"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "comprehensive_data_lake_report-cc4464f3": {
+    "chunks": 30,
+    "json": "comprehensive_data_lake_report-cc4464f3.json",
+    "parquet": null
+  },
+  "Building Tulip AI's Frontline Copilot-d9015c0d": {
+    "chunks": 193,
+    "json": "Building Tulip AI's Frontline Copilot-d9015c0d.json",
+    "parquet": null
+  },
+  "comprehensive_data_lake_report-1369c771": {
+    "chunks": 30,
+    "json": "comprehensive_data_lake_report-1369c771.json",
+    "parquet": null
+  },
+  "extraction_layer_usage_report-ad9552d9": {
+    "chunks": 15,
+    "json": "extraction_layer_usage_report-ad9552d9.json",
+    "parquet": null
+  }
+}
