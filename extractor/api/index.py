@@ -7,7 +7,7 @@ app = FastAPI(title="PDF Extraction Backend")
 UPLOAD_DIR = "/tmp/uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
-@app.post("/extract")
+@app.post("/api/extract")
 async def extract(file: UploadFile = File(...)):
     file_path = os.path.join(UPLOAD_DIR, file.filename)
 
