@@ -1,5 +1,3 @@
-# from your project root
-cat > vite.config.mjs <<'EOF'
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
@@ -11,8 +9,7 @@ export default defineConfig({
       "pdfjs-dist/build/pdf.worker": "pdfjs-dist/build/pdf.worker.js"
     }
   },
-  server: {
-    port: 5173
+  build: {
+    outDir: "dist"
   }
 });
-EOF
