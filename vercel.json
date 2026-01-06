@@ -1,25 +1,8 @@
 {
-  "builds": [
-    {
-      "src": "extractor/main.py",
-      "use": "@vercel/python"
-    },
-    {
-      "src": "pdfviewer/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "extractor/main.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "pdfviewer/dist/index.html"
+      "dest": "/extractor/main.py"
     }
   ]
 }
