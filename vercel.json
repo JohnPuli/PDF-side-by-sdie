@@ -1,13 +1,25 @@
 {
-  "functions": {
-    "api/index.py": {
-      "runtime": "python3.11"
+  "builds": [
+    {
+      "src": "extractor/main.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "pdfviewer/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
     }
-  },
+  ],
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "extractor/main.py"
+    },
+    {
       "src": "/(.*)",
-      "dest": "api/index.py"
+      "dest": "pdfviewer/dist/index.html"
     }
   ]
 }
