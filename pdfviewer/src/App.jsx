@@ -25,7 +25,7 @@ export default function App() {
     try {
       setLoading(true);
 
-      const res = await fetch("http://localhost:8000/extract", {
+      const res = await fetch("/api/extract", {
         method: "POST",
         body: formData
       });
